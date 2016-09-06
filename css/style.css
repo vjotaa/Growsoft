@@ -15,8 +15,8 @@ html {
     font-size: 1em;
     line-height: 1.4;
     background-color: #F2F2F2;
-    
-   
+
+
 }
 
 /*
@@ -98,20 +98,20 @@ textarea {
     width: 100%;
     overflow: hidden;
     position: absolute;
-    
-    
+
+
 }
 .central{
     /*Para que cubra toda la pantalla*/
     min-width: 150%;
     min-height: 100%;
     width: auto;
-    
+
     /*Para que el navegador no altere la escala*/
-    
+
     height: auto;
     position:absolute;
-    
+
     /*Centrar el video*/
     top: 50%;
     left: 50%;
@@ -129,7 +129,7 @@ textarea {
 
 html,
 body {
-    
+
     height: 100%;
 }
 
@@ -137,7 +137,7 @@ body {
 .item,
 .active {
  height: 100%;
-    width: 
+    width:
 }
 
 .carousel-inner {
@@ -165,7 +165,7 @@ body {
   transition: all 1.35s;
     border: 0;
 
-    
+
 }
 
 .navbar-default .navbar-header .navbar-brand {
@@ -248,20 +248,20 @@ body {
     background-color: rgba(255,255,255,0.8);
 }
 
-	
 
-			
+
+
 .step-form, .step {
   max-height: 0px;
   overflow: hidden;
-  margin: 0px;    
+  margin: 0px;
   transition: all 1.4s;
 }
 
 .step.activo{
     max-height: 150px;
     padding: 0em 0.5em;
-    
+
 }
 
 
@@ -306,18 +306,18 @@ body {
     background-color: white;
 }
 .light {
-    font-weight: bold;  
+    font-weight: bold;
 }
 .line{
     border: 1px solid #E6E6E6;
     margin-bottom: 50px;
     margin-top: 50px;
-    
+
 }
 .margin-bottom{
     margin-bottom: 12px;
-    
-} 
+
+}
 .bottom{
     margin-bottom: 10px;
 }
@@ -349,7 +349,7 @@ body {
 }
 .secular-font{
     font-family: 'Montserrat', sans-serif;
-    
+
 }
 .weight{
     font-weight: bold;
@@ -428,7 +428,7 @@ body {
      height: 190px;
      width: 179px;
      margin: 0 auto
-    
+
 }
 .lugar a{
     text-decoration: none;
@@ -481,10 +481,10 @@ body {
 /* Imagenes */
 
 .imagen-cent {
-  height: 300px;
-  width: 100%;
+  background-size: 50px;
+  height: 500px;
   background-size: cover;
-  overflow: hidden; 
+  overflow: hidden;
   position: relative;
 }
 
@@ -517,14 +517,14 @@ body {
     position: relative;
     left: 0%;
     transition: left 3s;
-    
+
 }
 
 
 #gallery .image{
     margin-right: -4px;
     display: inline-block;
-    height: 100vh; 
+    height: 100vh;
     width: 100%;
     background-size: cover;
     background-position: center;
@@ -535,8 +535,8 @@ body {
     border: solid 1px;
     border-color: rgba(0,0,0,0.2);
     border-radius: 10px;
-    
-    
+
+
 }
 .cborder{
     box-shadow:  1px 1px 12px 1px  #999;
@@ -734,7 +734,7 @@ input, textarea{
 }
 
 .top {
-    
+
 }
 
 .top {
@@ -778,7 +778,7 @@ input, textarea{
 }
 
 .slide {
-    
+
 }
 
 
@@ -788,7 +788,7 @@ input, textarea{
 }
 
 .mtop {
-    
+
 }
 
 .full-height1 {
@@ -827,7 +827,7 @@ input, textarea{
 .left-p {
     float: left;
     margin-left: 10px;
-    
+
 }
 
 .small-red {
